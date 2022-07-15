@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-<h1 align="center">EVERYDAY IS A LEARNING DAY</h1>
+<h1 align="center">🇪‌🇻‌🇪‌🇷‌🇾‌🇩‌🇦‌🇾‌ 🇮‌🇸‌ 🇦‌ 🇱‌🇪‌🇦‌🇷‌🇳‌🇮‌🇳‌🇬‌ 🇩‌🇦‌🇾‌</h1>
 
 ###
 
