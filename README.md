@@ -1,7 +1,11 @@
 <!-- ### Hi there 👋 -->
 <img src="https://komarev.com/ghpvc/?username=Vleezy&color=brightgreen" alt="watching_count" />
 
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<br>
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes" /></a>
+
+
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vleezy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /> -->
 <!--
