@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://komarev.com/ghpvc/?username=Vleezy&color=brightgreen" alt="watching_count" />
 <!--
 **Vleezy/Vleezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
