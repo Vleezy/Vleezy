@@ -1,5 +1,9 @@
 ### Hi there 👋
 <img src="https://komarev.com/ghpvc/?username=Vleezy&color=brightgreen" alt="watching_count" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vleezy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 <!--
 **Vleezy/Vleezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
 
