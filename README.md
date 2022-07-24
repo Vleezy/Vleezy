@@ -21,7 +21,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vleezy&theme=tokyonight)
+
 
 <!-- <img src="https://komarev.com/ghpvc/?username=Vleezy&color=brightgreen" alt="watching_count" />
 
