@@ -6,9 +6,10 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Vleezy/count.svg?"  />
+  <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 </div>
 
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
+
 
 ###
 
