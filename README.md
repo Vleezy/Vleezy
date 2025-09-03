@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Vleezy/count.svg?"  />
+ <!-- <img src="https://profile-counter.glitch.me/Vleezy/count.svg?"  /> -->
   <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 </div>
 
@@ -13,11 +13,11 @@
 
 ###
 
-<!--<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Vleezy" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Vleezy" height="150" alt="languages graph"  />
+<div align="center">
+ <!--<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Vleezy" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Vleezy" height="150" alt="languages graph"  /> -->
   <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes" /></a>
-</div> -->
+</div> 
 
 
 ###
